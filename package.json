@@ -1,11 +1,10 @@
 {
   "name": "com.unityexample.createparenttool",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "displayName": "CreateParentTool",
   "description": "This is tool package",
   "unity": "2021.3",
-  "dependencies":{},
- "keywords": [
+  "keywords": [
     "keyword1",
     "keyword2",
     "keyword3"
@@ -15,5 +14,5 @@
     "email": "test@domain.com",
     "url": "https://www.unity3d.com"
   },
-  "type":"tool"
+  "type": "tool"
 }
